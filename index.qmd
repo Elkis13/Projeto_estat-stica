@@ -10,6 +10,9 @@ about:
         - icon: github
           text: Github
           url: https://github.com/Elkis13
+        - icon: lattes
+          text: Currículo Lattes
+          url: https://lattes.cnpq.br/2630478397021103
 image: aluno.jpg
 
 ---
