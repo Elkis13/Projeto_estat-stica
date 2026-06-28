@@ -1,0 +1,19 @@
+---
+title: "Mestrando em Engenharia Civil"
+description: "Sou mestrando em Engenharia Civil com foco em Geotecnia"
+about: 
+    template: trestles
+    links:
+        - icon: Linkedin
+          text: LinkedIn
+          url: www.linkedin.com/in/welkens-oliveira-362339263
+        - icon: github
+          text: Github
+          url: https://github.com/Elkis13
+image: aluno.jpg
+
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

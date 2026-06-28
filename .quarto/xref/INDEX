@@ -1,0 +1,38 @@
+{
+  "about.qmd": {
+    "about.html": "e15d7483"
+  },
+  "index.qmd": {
+    "index.html": "afd439e1"
+  },
+  "lista_disciplina.qmd": {
+    "lista_disciplina.html": "5daa748e"
+  },
+  "Notebooks/Aula_01_Amostragem.ipynb": {
+    "Aula_01_Amostragem.html": "ae7c2354"
+  },
+  "Notebooks/Aula_02_Distribuição_de_probabilidade.ipynb": {
+    "Aula_02_Distribuição_de_probabilidade.html": "c10ff651"
+  },
+  "Notebooks/Aula_03_Estimativa_de_parametros.ipynb": {
+    "Aula_03_Estimativa_de_parametros.html": "c2028e1a"
+  },
+  "Notebooks/Aula_04_Teste_de_hipotese.ipynb": {
+    "Aula_04_Teste_de_hipotese.html": "2801def5"
+  },
+  "Notebooks/Aula_05_Teste_de_normalidade_e_homocedasticidade.ipynb": {
+    "Aula_05_Teste_de_normalidade_e_homocedasticidade.html": "e85452ea"
+  },
+  "Notebooks/Aula_06_Regressao_linear.ipynb": {
+    "Aula_06_Regressao_linear.html": "b07d420d"
+  },
+  "Notebooks/Aula_07_Anova.ipynb": {
+    "Aula_07_Anova.html": "d93c615e"
+  },
+  "Notebooks/Aula_08_Principios_de_experimentacao.ipynb": {
+    "Aula_08_Principios_de_experimentacao.html": "a9faea74"
+  },
+  "Notebooks/Aula_09_Analise_de_experimentos.ipynb": {
+    "Aula_09_Analise_de_experimentos.html": "33506374"
+  }
+}
