@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/lista_disciplina.html",
+    "items": [
+      "/Notebooks/Aula_01_Amostragem.html",
+      "/Notebooks/Aula_02_Distribuição_de_probabilidade.html",
+      "/Notebooks/Aula_03_Estimativa_de_parametros.html",
+      "/Notebooks/Aula_04_Teste_de_hipotese.html",
+      "/Notebooks/Aula_05_Teste_de_normalidade_e_homocedasticidade.html",
+      "/Notebooks/Aula_06_Regressao_linear.html",
+      "/Notebooks/Aula_07_Anova.html",
+      "/Notebooks/Aula_08_Principios_de_experimentacao.html",
+      "/Notebooks/Aula_09_Analise_de_experimentos.html"
+    ]
+  }
+]
