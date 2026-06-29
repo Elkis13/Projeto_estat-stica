@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Esta é minha página profissional cotendo os trabalhos, relatórios e códigos desenvolvidos durante o mestrado em Engenharia Civil (enfase em Geotecnica).
+Esta é minha página profissional cotendo os trabalhos, relatórios e códigos desenvolvidos durante o mestrado em Engenharia Civil (enfase em Geotecnia).
