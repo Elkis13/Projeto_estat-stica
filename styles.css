@@ -45,3 +45,10 @@ box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);  /* Aumenta a sombra projetada */
   color: #ffffff !important;
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
 }
+/* Altera o texto da página Sobre e outras páginas padrão para branco */
+.quarto-container main h1,
+.quarto-container main h2,
+.quarto-container main p {
+  color: #ffffff !important;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8); /* Sombra preta para destacar o texto da imagem */
+}
